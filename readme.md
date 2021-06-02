@@ -2,7 +2,7 @@
 
 Todo:
 - Find out general structure of password managers
-- Find what hashing algo to use (probably sha256)
+- Find what hashing algo to use
 
 - Create an SQL database of some kind (mysql)
 	- tables: password, username, user_email, app_name, url
